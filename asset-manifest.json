@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/numanulhaq/static/css/main.00330244.css",
+    "main.js": "/numanulhaq/static/js/main.09570453.js",
+    "static/media/homeVillas.png": "/numanulhaq/static/media/homeVillas.8af45e3abeab070a40fd.png",
+    "static/media/self.png": "/numanulhaq/static/media/self.6b442be019bea4187f32.png",
+    "static/media/cof-academic.png": "/numanulhaq/static/media/cof-academic.eee9b4f4888da2ffcbce.png",
+    "static/media/cof-dashboard.png": "/numanulhaq/static/media/cof-dashboard.c8c4ac346190162e09ae.png",
+    "static/media/project-dsm.png": "/numanulhaq/static/media/project-dsm.5480adb635b53275e95a.png",
+    "static/media/foodbakery.png": "/numanulhaq/static/media/foodbakery.264d380afcc26407adf5.png",
+    "static/media/project-rms.png": "/numanulhaq/static/media/project-rms.a9bc28bc339345959fb8.png",
+    "static/media/project-cintel.png": "/numanulhaq/static/media/project-cintel.a9f826206567f23b5a2e.png",
+    "index.html": "/numanulhaq/index.html",
+    "main.00330244.css.map": "/numanulhaq/static/css/main.00330244.css.map",
+    "main.09570453.js.map": "/numanulhaq/static/js/main.09570453.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00330244.css",
+    "static/js/main.09570453.js"
+  ]
+}
