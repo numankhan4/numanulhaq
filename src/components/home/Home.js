@@ -27,7 +27,7 @@ export default function Home() {
                   
                   <Box component={'span'} aria-label="cheese"
                  role="img"
-                 mr={{xs: '0.5rem', md: '1rem'}} fontSize={'1.5rem'}>📄</Box> <a target='_blank' href='https://drive.google.com/file/d/1RipHNnzyAPrx-6wEfIvOabJtUvU_cF45/view?usp=drive_link'>View My Resume</a>
+                 mr={{xs: '0.5rem', md: '1rem'}} fontSize={'1.5rem'}>📄</Box> <a target='_blank' href='https://drive.google.com/file/d/1vGiWiTHESVfH9IEYBKtkUggoIP623Xbd/view?usp=sharing'>View My Resume</a>
                </Box>
             </Box>
             <Box display={'flex'} gap={'1.5rem'} justifyContent={'center'} fontSize={{xs: '2rem', md: '2.5rem'}}>
