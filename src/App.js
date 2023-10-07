@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.module.scss';
 import BaseLayout from "./components/BaseLayout";
-import { BrowserRouter as Router} from "react-router-dom";
+import { HashRouter as Router } from 'react-router-dom';
 
 function App() {
    return (
