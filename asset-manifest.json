@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/numanulhaq/static/css/main.00330244.css",
-    "main.js": "/numanulhaq/static/js/main.09570453.js",
+    "main.js": "/numanulhaq/static/js/main.03982b06.js",
     "static/media/homeVillas.png": "/numanulhaq/static/media/homeVillas.8af45e3abeab070a40fd.png",
     "static/media/self.png": "/numanulhaq/static/media/self.6b442be019bea4187f32.png",
     "static/media/cof-academic.png": "/numanulhaq/static/media/cof-academic.eee9b4f4888da2ffcbce.png",
@@ -12,10 +12,10 @@
     "static/media/project-cintel.png": "/numanulhaq/static/media/project-cintel.a9f826206567f23b5a2e.png",
     "index.html": "/numanulhaq/index.html",
     "main.00330244.css.map": "/numanulhaq/static/css/main.00330244.css.map",
-    "main.09570453.js.map": "/numanulhaq/static/js/main.09570453.js.map"
+    "main.03982b06.js.map": "/numanulhaq/static/js/main.03982b06.js.map"
   },
   "entrypoints": [
     "static/css/main.00330244.css",
-    "static/js/main.09570453.js"
+    "static/js/main.03982b06.js"
   ]
 }
