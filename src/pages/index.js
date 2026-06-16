@@ -308,7 +308,8 @@ export default function Home() {
           content="Serious frontend work for serious products. 13 years shipping production-grade interfaces for startups, SaaS teams, and product agencies."
         />
         <link rel="icon" href={`${appBasePath}/images/svgs/logo-icon.svg`} type="image/svg+xml" />
-        <link rel="icon" href={`${appBasePath}/favicon.ico`} sizes="any" />
+        <link rel="shortcut icon" href={`${appBasePath}/images/svgs/logo-icon.svg`} type="image/svg+xml" />
+        <link rel="apple-touch-icon" href={`${appBasePath}/images/svgs/logo-icon.svg`} />
       </Head>
 
       <div className={styles.wrapper}>
