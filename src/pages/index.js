@@ -414,7 +414,7 @@ export default function Home() {
                 rel="noreferrer noopener"
                 className={styles.ghostBtn}
               >
-                View r&eacute;sum&eacute; &nearr;
+                View r&eacute;sum&eacute; {'\u2197'}
               </a>
             </motion.div>
           </section>
@@ -477,7 +477,7 @@ export default function Home() {
                         rel="noreferrer noopener"
                         className={styles.projectLinkBtn}
                       >
-                        View live &nearr;
+                        View live {'\u2197'}
                       </a>
                     )}
                   </div>
@@ -513,7 +513,7 @@ export default function Home() {
                         rel="noreferrer noopener"
                         className={styles.projectLinkBtn}
                       >
-                        View live &nearr;
+                        View live {'\u2197'}
                       </a>
                     )}
                   </article>
@@ -540,7 +540,7 @@ export default function Home() {
                         rel="noreferrer noopener"
                         className={styles.projectLinkBtn}
                       >
-                        View live &nearr;
+                        View live {'\u2197'}
                       </a>
                     )}
                   </article>
@@ -696,7 +696,7 @@ export default function Home() {
                 rel="noreferrer noopener"
                 className={styles.ghostBtn}
               >
-                View r&eacute;sum&eacute; &nearr;
+                View r&eacute;sum&eacute; {'\u2197'}
               </a>
             </div>
           </motion.section>
