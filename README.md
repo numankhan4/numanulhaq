@@ -1,4 +1,4 @@
-# Numan Ul Haq Portfolio
+# Numan's Portfolio
 
 Welcome to my portfolio website! I'm Numan, a seasoned Front-End Web Developer with a passion for creating visually stunning and user-friendly web experiences. With over nine years of experience in the field, I've honed my skills in various technologies, including React, Lit Element, and WordPress.
 

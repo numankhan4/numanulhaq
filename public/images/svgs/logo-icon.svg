@@ -1,0 +1,14 @@
+<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="NH — Numan Ul Haq">
+  <title>NH — Numan Ul Haq</title>
+  <!-- Dark background tile for app icons, favicons, social avatars -->
+  <rect width="64" height="64" rx="13" fill="#04070F"/>
+  <rect width="64" height="64" rx="13" fill="none" stroke="rgba(99,102,241,0.2)" stroke-width="1"/>
+  <!-- Mark centered: translate(8,8) gives 14px H-padding, 8px V-padding on 64px container -->
+  <g fill="#EEF2FF" transform="translate(8,8)">
+    <rect x="6" y="0" width="4" height="48"/>
+    <polygon points="6,0 10,0 26,48 22,48"/>
+    <rect x="22" y="0" width="4" height="48"/>
+    <rect x="26" y="22" width="16" height="4"/>
+    <rect x="38" y="0" width="4" height="48"/>
+  </g>
+</svg>
